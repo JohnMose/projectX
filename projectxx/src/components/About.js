@@ -7,7 +7,7 @@ const About = () => {
       <Paper elevation={3} style={{ padding: '20px', marginTop: '20px' }}>
         <Typography variant="h4">About Us</Typography>
         <Typography>
-          Welcome to ProjectX! This is the about page :)
+          Welcome to ProjectX! This is my about page :
         </Typography>
       </Paper>
     </Container>
