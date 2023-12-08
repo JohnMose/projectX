@@ -1,4 +1,4 @@
-A websie like portfolio that displays a users information  and service the user offers
+A website like portfolio that displays a users information  and service the user offers
 
 To run the program
 
