@@ -24,7 +24,7 @@ const Header = () => {
               Services
             </Button>
             <Button component={RouterLink} to="/contact" color="inherit">
-              Contact
+              Contact Page
             </Button>
           </Box>
         </Box>
